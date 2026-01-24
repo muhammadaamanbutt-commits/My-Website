@@ -111,17 +111,13 @@ a {
     font-size: 18px !important;
   }
 
-  /* Adjusting logo for mobile [13] */
   .headercontent ul {
     gap: 15px !important;
   }
 
-  /* Reducing gap from 40px [3] */
   .headercontent button {
     margin-left: 10px !important;
   }
-
-  /* Fixing button margin [3] */
 
   .card {
     width: 90% !important;
@@ -130,7 +126,6 @@ a {
     margin-top: 50px !important;
   }
 
-  /* Expanding the main hero card [4] */
 }
 
 /* Main */
@@ -141,11 +136,6 @@ main {
   flex-direction: column;
   align-items: center;
 }
-
-/* width: 90% !important;
-max-width: 90% !important;
-height: auto !important;
-margin-top: 50px !important; */
 
 .card {
   background-color: #eb000000;
@@ -188,7 +178,6 @@ margin-top: 50px !important; */
 }
 
 .google {
-  /* text-align: justify; */
   background-color: #ed000000;
   backdrop-filter: blur(10px);
   max-width: 25%;
@@ -260,13 +249,10 @@ margin-top: 50px !important; */
     gap: 30px !important;
   }
 
-  /* Reducing gap from 200px [8] */
   .google,
   .facebook,
   .instagram {
     max-width: 90%;
     width: 90%;
   }
-
-  /* Expanding integration cards from 25% [9-11] */
 }
